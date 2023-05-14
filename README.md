@@ -9,12 +9,12 @@
 
 ### Front-End:
 
-<img src="./Icons/HTML5.jpeg" width="25" height="25"><img src="./Icons/CSS3.png" width="25" height="25"><img src="./Icons/bootstrap.png" width="25" height="25"><img src="./Icons/JS.jpeg" width="25" height="25"><img src="./Icons/jquery.gif" width="25" height="25"><img src="./Icons/webpack.jpeg" width="25" height="25">
+<img src="./Icons/HTML5.jpeg" width="40" height="40"><img src="./Icons/CSS3.png" width="40" height="40"><img src="./Icons/bootstrap.png" width="40" height="40"><img src="./Icons/JS.jpeg" width="40" height="40"><img src="./Icons/jquery.gif" width="40" height="40"><img src="./Icons/webpack.jpeg" width="40" height="40">
 
 ### Back-End:
 
-<img src="./Icons/python.png" width="25" height="25"><img src="./Icons/django.jpeg" width="25" height="25"><img src="./Icons/flask.png" width="25" height="25"><img src="./Icons/mysql.png" width="25" height="25"><img src="./Icons/postgresql.jpeg" width="25" height="25">
+<img src="./Icons/python.png" width="40" height="40"><img src="./Icons/django.jpeg" width="40" height="40"><img src="./Icons/flask.png" width="40" height="40"><img src="./Icons/mysql.png" width="40" height="40"><img src="./Icons/postgresql.png" width="40" height="40">
 
 ### General:
 
-<img src="./Icons/linux.jpeg" width="25" height="25"><img src="./Icons/bash.jpeg" width="25" height="25">
+<img src="./Icons/linux.jpeg" width="40" height="40"><img src="./Icons/bash.jpeg" width="40" height="40">
