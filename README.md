@@ -15,6 +15,6 @@
 
 <img src="./Icons/python.png" width="25" height="25"><img src="./Icons/django.jpeg" width="25" height="25"><img src="./Icons/flask.png" width="25" height="25"><img src="./Icons/mysql.png" width="25" height="25"><img src="./Icons/postgresql.jpeg" width="25" height="25">
 
-## General:
+### General:
 
 <img src="./Icons/linux.jpeg" width="25" height="25"><img src="./Icons/bash.jpeg" width="25" height="25">
