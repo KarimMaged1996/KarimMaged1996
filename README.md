@@ -13,7 +13,7 @@
 
 ### Back-End:
 
-<img src="./Icons/python.png" width="40" height="40"><img src="./Icons/django.jpeg" width="40" height="40"><img src="./Icons/flask.png" width="40" height="40"><img src="./Icons/mysql.png" width="40" height="40"><img src="./Icons/postgresql.png" width="40" height="40">
+<img src="./Icons/python.png" width="40" height="40"><img src="./Icons/django.jpeg" width="40" height="40"><img src="./Icons/flask.png" width="40" height="40"><img src="./Icons/mysql.png" width="40" height="40"><img src="./Icons/postgresql.png" width="60" height="40">
 
 ### General:
 
