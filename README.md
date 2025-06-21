@@ -9,12 +9,12 @@
 
 ### Front-End:
 
-<img src="./Icons/HTML5.jpeg" width="40" height="40"><img src="./Icons/CSS3.png" width="40" height="40"><img src="./Icons/bootstrap.png" width="40" height="40"><img src="./Icons/JS.jpeg" width="40" height="40"><img src="./Icons/jquery.gif" width="40" height="40"><img src="./Icons/webpack.png" width="40" height="40">
+<img src="./Icons/Frontend/HTML5.jpeg" width="40" height="40"><img src="./Icons/Frontend/CSS3.png" width="40" height="40"><img src="./Icons/Frontend/JS.jpeg" width="40" height="40"><img src="./Icons/Frontend/ts.png" width="40" height="40"><img src="./Icons/Frontend/webpack.png" width="40" height="40"><img src="./Icons/Frontend/react.jpg" width="40" height="40"><img src="./Icons/Frontend/next.png" width="40" height="40"><img src="./Icons/Frontend/mui.png" width="40" height="40"><img src="./Icons/Frontend/tailwind.png" width="40" height="40"><img src="./Icons/Frontend/react_query.png" width="40" height="40">
 
 ### Back-End:
 
-<img src="./Icons/python.png" width="40" height="40"><img src="./Icons/django.jpeg" width="40" height="40"><img src="./Icons/flask.png" width="40" height="40"><img src="./Icons/mysql.png" width="40" height="40"><img src="./Icons/postgresql.jpg" width="60" height="40">
+<img src="./Icons/backend/node.js.jpg" width="40" height="40"><img src="./Icons/backend/express.png" width="40" height="40"><img src="./Icons/backend/mongodb.png" width="40" height="40"><img src="./Icons/backend/python.png" width="40" height="40"><img src="./Icons/backend/django.jpeg" width="60" height="40"><img src="./Icons/backend/mysql.png" width="40" height="40"><img src="./Icons/backend/postgresql.jpg" width="40" height="40">
 
 ### General:
 
-<img src="./Icons/linux.jpeg" width="40" height="40"><img src="./Icons/bash.jpeg" width="40" height="40">
+<img src="./Icons/general/linux.jpeg" width="40" height="40"><img src="./Icons/general/bash.jpeg" width="40" height="40"><img src="./Icons/general/aws.png" width="40" height="40"><img src="./Icons/general/docker.png" width="40" height="40">
