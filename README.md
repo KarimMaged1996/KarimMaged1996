@@ -1,8 +1,8 @@
 ### About me
 
 - Hi there 👋 I’m a full stack web developer and a passionate learner who loves to create beautiful and functional websites.
-- 🌱 I’m currently learning C++ and Data Structures and Algorithms to improve my development skills
-- 💬 Ask me about HTML, CSS, JavaScript, Bootstrap, React, Python, Django, Flask and anything web related
+- 🌱 I’m currently learning AWS and Docker to improve my development skills
+- 💬 Ask me about JavaScript, Typescript, React, Next, Node.js, express, database design and anything web related
 - 📫 How to reach me: you can email me at karim.maged2020@yahoo.com
 
 ## My Skills
